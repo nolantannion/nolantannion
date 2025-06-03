@@ -1,16 +1,13 @@
-## Hi there 👋
+# Nolan Tannion 
+<!-- Ejemplo: Juan Pérez | Estudiante de Física -->
 
-<!--
-**nolantannion/nolantannion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+<!-- Breve presentación: quién eres, qué estudias o haces, intereses principales. -->
+Estudiante de 3º año en física. Principalmente computación científica, simulaciones numéricas y análisis de datos.
 
-Here are some ideas to get you started:
+## Habilidades y Tecnologías
+<!-- Enumera aquí tus lenguajes y herramientas más usadas. -->
+- **Lenguajes:** Python, C++, MATLAB
+- **Librerías:** NumPy, SciPy, Matplotlib
+- **Herramientas:** LaTeX, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
